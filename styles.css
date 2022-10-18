@@ -1,0 +1,33 @@
+:root{
+    font-family: 'Outfit';
+    font-size: 62.5%;
+}
+*{
+    box-sizing: border-box;
+
+}
+body{
+    padding: 4rem 4rem;
+    background: hsl(212, 45%, 89%);
+}
+.container{
+    text-align: center;
+}
+img{
+    width: 100%;
+    border-radius: 6px;
+}
+.card{
+    background-color: white;
+    width: 30rem;
+    padding: 2rem;
+    border-radius: 6px;
+    margin: auto;
+}
+h1{
+    font-weight: 600;
+
+}
+p,h1{
+    font-size: 1.5rem;
+}
